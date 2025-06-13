@@ -5,6 +5,21 @@
 //  Created by Prateek Priyadarshi on 09/06/25.
 //
 
+
+
+//AppDelegate.swift
+//What it is:
+//The “app delegate” is your app’s global lifecycle manager. It conforms to UIApplicationDelegate and receives high-level events like:
+//App finished launching
+//App is about to go into the background or foreground
+//Low-memory warnings
+//Push-notification delivery
+//Key responsibilities:
+//Initial setup that applies to your entire app
+//Responding to system-wide events
+
+
+
 import UIKit
 
 @main
